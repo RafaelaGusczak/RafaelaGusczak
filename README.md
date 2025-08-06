@@ -5,7 +5,7 @@
 
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="18" height="18"> Estagiária de TI
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="18" height="18"> Cursando Bacharelado em Engenharia de Software
-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60a/512.gif" alt="😊" width="18" height="18"> Pronouns: ela/dela
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60a/512.gif" alt="😊" width="18" height="18"> Pronomes: ela/dela
 
     
 <div>
