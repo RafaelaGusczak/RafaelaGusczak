@@ -6,7 +6,7 @@
     
 <div>
 <a href="https://github.com/RafaelaGusczak">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=RafaelaGusczak&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaGusczak&layout=donut&langs_count=8&hide_border=true&theme=tokyonight" alt="Linguagens usadas" />
 <img height="160" src="https://streak-stats.demolab.com?user=RafaelaGusczak&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
