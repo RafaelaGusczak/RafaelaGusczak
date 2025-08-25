@@ -1,6 +1,6 @@
 ## Olá! Eu sou Rafaela Gusczak <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="22" height="22">
 
-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="18" height="18"> Estagiária de TI
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="18" height="18"> Estagiária de Banco de Dados Oracle
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="18" height="18"> Cursando Bacharelado em Engenharia de Software
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60a/512.gif" alt="😊" width="18" height="18"> Pronomes: ela/dela
 
