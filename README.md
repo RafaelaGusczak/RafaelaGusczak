@@ -6,10 +6,10 @@
     
 <div>
 <a href="https://github.com/RafaelaGusczak">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaGusczak&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelaGusczak&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=RafaelaGusczak&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+<img height="160" src="https://streak-stats.demolab.com?user=RafaelaGusczak&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 </div>
-    
+
 ## Estudando <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270d_1f3fc/512.gif" alt="✍" width="22" height="22">
 
 <div>
