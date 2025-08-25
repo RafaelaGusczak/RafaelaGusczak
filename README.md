@@ -6,8 +6,8 @@
     
 <div>
 <a href="https://github.com/RafaelaGusczak">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaGusczak&layout=donut&langs_count=8&hide_border=true&theme=tokyonight" alt="Linguagens usadas" />
-<img height="160" src="https://streak-stats.demolab.com?user=RafaelaGusczak&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+<img height="160" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaGusczak&layout=donut&langs_count=8&hide_border=true&theme=tokyonight" alt="Linguagens usadas" />
+<img height="160" width="300" src="https://streak-stats.demolab.com?user=RafaelaGusczak&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## Estudando <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270d_1f3fc/512.gif" alt="✍" width="22" height="22">
